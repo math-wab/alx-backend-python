@@ -945,5 +945,4 @@ TEST_PAYLOAD = [
     ['episodes.dart', 'cpp-netlib', 'dagger', 'ios-webkit-debug-proxy', 'google.github.io', 'kratu', 'build-debian-cloud', 'traceur-compiler', 'firmata.py'],
     ['dagger', 'kratu', 'traceur-compiler', 'firmata.py'],
   )
-]i.github.com/repos/google/cpp-netlib/contents/{+path}",
-        "compare_url": "https://api.github.com/repos/google/cpp-netlib/compare/{base}...{head}",
+]
